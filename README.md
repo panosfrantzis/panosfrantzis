@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panosfrantzis
 - 👀 I’m interested in Javascript-Python-SQL
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript & Python
 - 💞️ I’m looking to collaborate on personal ambitious but interesting projects
 - 📫 How to reach me panos.frantzis@gmail.com
 
